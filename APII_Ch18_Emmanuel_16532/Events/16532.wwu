@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{34941D53-FED7-4EA5-8CA1-589A55E6592F}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="16532" ID="{34941D53-FED7-4EA5-8CA1-589A55E6592F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Gato_Poder_Estrella" ID="{12AD9AF6-9EEF-414C-AA68-08E41EF07744}">
+					<ChildrenList>
+						<Action Name="" ID="{C21520D1-EBA8-4CA6-BBD5-340B0FE09E5B}" ShortID="169730844">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Estrella" ID="{D8E04157-7445-4BD6-A914-FA294C6298EE}" WorkUnitID="{9EE19830-8331-4818-9AE4-F9833C14ED09}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
