@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	264817858	Gato_Poder_Estrella			\16532\Gato_Poder_Estrella	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	857631779	Estrella	Y:\Documents\GitHub\Proyecto_Final-EJ\APII_Ch18_Emmanuel_16532\.cache\Mac\SFX\Estrella poder _818F3B66.wem		\Actor-Mixer Hierarchy\16532\Estrella		797760
+

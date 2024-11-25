@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{41F0D5E2-9424-44C4-B4B1-3389EB78E179}" SchemaVersion="119">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{41F0D5E2-9424-44C4-B4B1-3389EB78E179}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{41F0D5E2-9424-44C4-B4B1-3389EB78E179}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Game_Cat" ID="{246299AF-663B-47E3-86A6-D2F80CC256DC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Gato_Poder_Estrella" ID="{12AD9AF6-9EEF-414C-AA68-08E41EF07744}" WorkUnitID="{34941D53-FED7-4EA5-8CA1-589A55E6592F}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>
